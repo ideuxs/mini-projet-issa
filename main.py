@@ -1,1 +1,3 @@
-a = 2024
+
+def a():
+    print("salut")
